@@ -1,12 +1,5 @@
 # Hi, I'm Adrián 👋
 
-<p align="center" dir="auto"><animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a109dd74c55d8104563f245b538e0462adf200216ffab6eb84c8e285c55d7d6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/7a109dd74c55d8104563f245b538e0462adf200216ffab6eb84c8e285c55d7d6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" height="300" data-canonical-src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/7a109dd74c55d8104563f245b538e0462adf200216ffab6eb84c8e285c55d7d6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" target="_blank">
-          
-   
-
-
 ### 🎓 I am currently finishing my degree in Computer Engineering at Carlos III University of Madrid.
 
 ## Contact with me:
